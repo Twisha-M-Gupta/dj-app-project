@@ -1,0 +1,25 @@
+body {
+    background: url("background.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+
+h1,
+span {
+    color: white;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+span {
+    font-size: 20px;
+}
+
+canvas {
+    background-color: antiquewhite;
+    border: 10px solid white;
+    border-radius: 20px;
+}
